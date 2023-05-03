@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2e7a804-0174-4474-b4dc-6bd891efcf65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/partie1/MaPremiereClasseJavaFX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/partie1/VBoxAndHBoxApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Exercice1/ManipConteneurs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/project_jfx/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/project_jfx/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +43,7 @@
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.VBoxAndHBoxApp">
+  <component name="RunManager" selected="Application.ManipConteneurs">
     <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.project_jfx.HelloApplication" />
       <module name="Project_JFX" />
@@ -75,6 +71,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ManipConteneurs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Exercice1.ManipConteneurs" />
+      <module name="Project_JFX" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Exercice1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="VBoxAndHBoxApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.partie1.VBoxAndHBoxApp" />
       <module name="Project_JFX" />
@@ -90,6 +99,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ManipConteneurs" />
         <item itemvalue="Application.VBoxAndHBoxApp" />
         <item itemvalue="Application.MaPremiereClasseJavaFX" />
         <item itemvalue="Application.HelloApplication" />
@@ -104,11 +114,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683096768498</updated>
-      <workItem from="1683096769683" duration="2385000" />
+      <workItem from="1683096769683" duration="11118000" />
     </task>
+    <task id="LOCAL-00001" summary="Step 0 finished">
+      <created>1683099413597</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683099413597</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Step 0 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Step 0 finished" />
   </component>
 </project>
