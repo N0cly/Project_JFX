@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2e7a804-0174-4474-b4dc-6bd891efcf65" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Exercice4/WindowColor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Partie2/HelloWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Partie2/HelloWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +60,7 @@
       <recent name="$PROJECT_DIR$/src/main/resources/com/example/project_jfx/Partie2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HelloWindow">
+  <component name="RunManager" selected="Application.WindowColor">
     <configuration name="HelloWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Partie2.HelloWindow" />
       <module name="Project_JFX" />
@@ -99,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VBoxAndHBoxApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.partie1.VBoxAndHBoxApp" />
+    <configuration name="WindowColor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Exercice4.WindowColor" />
       <module name="Project_JFX" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.partie1.*" />
+          <option name="PATTERN" value="com.example.Exercice4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WindowColor" />
+        <item itemvalue="Application.ManipConteneurs" />
         <item itemvalue="Application.HelloWindow" />
         <item itemvalue="JUnit.com.example.project_jfx in Project_JFX" />
         <item itemvalue="Application.TicTacToe" />
-        <item itemvalue="Application.ManipConteneurs" />
-        <item itemvalue="Application.VBoxAndHBoxApp" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +146,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683096768498</updated>
       <workItem from="1683096769683" duration="11118000" />
-      <workItem from="1683700293890" duration="7955000" />
+      <workItem from="1683700293890" duration="12432000" />
     </task>
     <task id="LOCAL-00001" summary="Step 0 finished">
       <created>1683099413597</created>
@@ -161,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683708251371</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="EventHandler">
+      <created>1683709004142</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683709004142</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +178,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Step 0 finished" />
     <MESSAGE value="ImageView" />
-    <option name="LAST_COMMIT_MESSAGE" value="ImageView" />
+    <MESSAGE value="EventHandler" />
+    <option name="LAST_COMMIT_MESSAGE" value="EventHandler" />
   </component>
 </project>
