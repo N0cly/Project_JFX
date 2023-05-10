@@ -8,5 +8,7 @@ module com.example.project_jfx {
     opens com.example.project_jfx to javafx.fxml;
     exports com.example.project_jfx;
     exports com.example.partie1;
+    exports com.example.Partie2;
     exports com.example.Exercice1;
+    exports com.example.Exercice2;
 }

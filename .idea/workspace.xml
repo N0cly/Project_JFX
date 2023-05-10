@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2e7a804-0174-4474-b4dc-6bd891efcf65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Exercice1/ManipConteneurs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Exercice2/TicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Exercice2/img/Croix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Exercice2/img/Rond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Exercice2/img/Vide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Partie2/HelloWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Partie2/silver_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/Partie2/silver_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/project_jfx/Partie2/silver_button.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Exercice1/ManipConteneurs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Exercice1/ManipConteneurs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JavaFXApplication" />
       </list>
     </option>
   </component>
@@ -37,33 +46,35 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/amuhome/b22002844/IdeaProjects/Project_JFX/src/main/resources/com/example/Partie2",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ManipConteneurs">
-    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.project_jfx.HelloApplication" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/com/example/Partie2" />
+      <recent name="$PROJECT_DIR$/src/main/resources/com/example/project_jfx" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/Partie2" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/Exercice2/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/com/example/project_jfx/Partie2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HelloWindow">
+    <configuration name="HelloWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Partie2.HelloWindow" />
       <module name="Project_JFX" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.project_jfx.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaPremiereClasseJavaFX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.partie1.MaPremiereClasseJavaFX" />
-      <module name="Project_JFX" />
-      <option name="PROGRAM_PARAMETERS" value="500 500" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.partie1.*" />
+          <option name="PATTERN" value="com.example.Partie2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,6 +95,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Exercice2.TicTacToe" />
+      <module name="Project_JFX" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Exercice2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="VBoxAndHBoxApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.partie1.VBoxAndHBoxApp" />
       <module name="Project_JFX" />
@@ -97,12 +121,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.example.project_jfx in Project_JFX" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project_JFX" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.project_jfx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.project_jfx" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloWindow" />
+        <item itemvalue="JUnit.com.example.project_jfx in Project_JFX" />
+        <item itemvalue="Application.TicTacToe" />
         <item itemvalue="Application.ManipConteneurs" />
         <item itemvalue="Application.VBoxAndHBoxApp" />
-        <item itemvalue="Application.MaPremiereClasseJavaFX" />
-        <item itemvalue="Application.HelloApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -115,6 +154,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683096768498</updated>
       <workItem from="1683096769683" duration="11118000" />
+      <workItem from="1683700293890" duration="7034000" />
     </task>
     <task id="LOCAL-00001" summary="Step 0 finished">
       <created>1683099413597</created>
