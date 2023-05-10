@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2e7a804-0174-4474-b4dc-6bd891efcf65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Exercice2/TicTacToe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Exercice2/img/Croix.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Exercice2/img/Rond.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Exercice2/img/Vide.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Partie2/HelloWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Partie2/silver_button.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/Partie2/silver_button.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/project_jfx/Partie2/silver_button.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Exercice1/ManipConteneurs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Exercice1/ManipConteneurs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Partie2/HelloWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Partie2/HelloWindow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +145,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683096768498</updated>
       <workItem from="1683096769683" duration="11118000" />
-      <workItem from="1683700293890" duration="7034000" />
+      <workItem from="1683700293890" duration="7955000" />
     </task>
     <task id="LOCAL-00001" summary="Step 0 finished">
       <created>1683099413597</created>
@@ -163,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683099413597</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ImageView">
+      <created>1683708251371</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683708251371</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +169,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Step 0 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Step 0 finished" />
+    <MESSAGE value="ImageView" />
+    <option name="LAST_COMMIT_MESSAGE" value="ImageView" />
   </component>
 </project>

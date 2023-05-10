@@ -1,6 +1,7 @@
 package com.example.Partie2;
 
 import javafx.application.Application;
+import javafx.event.ActionEvent;
 import javafx.event.Event;
 import javafx.event.EventHandler;
 import javafx.geometry.Pos;
@@ -49,6 +50,7 @@ public class HelloWindow extends Application {
         this.nameField = new TextField("Veuillez saisir un nom");
         this.nameField.setMaxWidth(180.0d);
         this.nameField.setFont( Font.font("Courier", FontWeight.NORMAL, 12) );
+        this.nameField.setOnAction( actionEvent -> handleButonClick(actionEvent) );
         vbox.getChildren().add( nameField );
 
 
@@ -70,6 +72,7 @@ public class HelloWindow extends Application {
         btn.addEventHandler(MouseEvent.MOUSE_CLICKED, new ButtonClickHandler(helloLabel, nameField));
 
 
+
         // Création de la scene
         Scene scene = new Scene(vbox,400,400);
 
@@ -78,6 +81,10 @@ public class HelloWindow extends Application {
 
         primaryStage.setTitle("Hello application");
         primaryStage.show();
+    }
+
+    private void handleButonClick(ActionEvent actionEvent) {
+        helloLabel.setText( "Bonjour à toi, "+nameField.getText() );
     }
 
     // Actions effectuées lors du clic sur le bouton
