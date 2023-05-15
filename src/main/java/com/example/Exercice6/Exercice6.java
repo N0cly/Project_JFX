@@ -11,7 +11,11 @@ import javafx.scene.paint.Color;
 import javafx.stage.Stage;
 
 public class Exercice6 extends Application {
-    private String motSecret = "PENDU";
+
+
+    Dico mot= new Dico();
+
+    private String motSecret = mot.getMot();
     private int viesRestantes = 7;
     private StringBuilder motActuel;
 

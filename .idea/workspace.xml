@@ -5,21 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2e7a804-0174-4474-b4dc-6bd891efcf65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Exercice6/Exercice6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Exercice6/Exercice6v2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Exercice6/dico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/Exercice6/dico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/Exercice6/pendu0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/Exercice6/pendu1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/Exercice6/pendu2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/Exercice6/pendu3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/Exercice6/pendu4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/Exercice6/pendu5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/Exercice6/pendu6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/Exercice6/pendu7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/Exercice6/penduWin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/Exercice6/Dico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/Exercice6/Dico2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Exercice6/Exercice6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Exercice6/Exercice6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Exercice6/Exercice6v2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Exercice6/Exercice6v2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Exercice6/dico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Exercice6/Dico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/Exercice6/dico" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Exercice6/Dico" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +48,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/amuhome/b22002844/IdeaProjects/Project_JFX/src/main/resources/com/example/Exercice6",
+    "last_opened_file_path": "/amuhome/b22002844/IdeaProjects/Project_JFX/src/main/java/com/example/Exercice6",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0"
@@ -63,17 +56,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/Exercice6" />
       <recent name="$PROJECT_DIR$/src/main/resources/com/example/Exercice6" />
       <recent name="$PROJECT_DIR$/src/main/resources/com/example/Partie2" />
       <recent name="$PROJECT_DIR$/src/main/resources/com/example/project_jfx" />
       <recent name="$PROJECT_DIR$/src/main/java/com/example/Partie2" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/example/Exercice2/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/com/example/Exercice6" />
       <recent name="$PROJECT_DIR$/src/main/resources/com/example/project_jfx/Partie2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercice6v2">
+  <component name="RunManager" selected="Application.Exercice6">
     <configuration name="Exercice6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Exercice6.Exercice6" />
       <module name="Project_JFX" />
@@ -141,8 +135,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercice6v2" />
         <item itemvalue="Application.Exercice6" />
+        <item itemvalue="Application.Exercice6v2" />
         <item itemvalue="Application.Exercice62" />
         <item itemvalue="Application.WindowColor" />
         <item itemvalue="Application.HelloWindow" />
@@ -159,7 +153,7 @@
       <updated>1683096768498</updated>
       <workItem from="1683096769683" duration="11118000" />
       <workItem from="1683700293890" duration="12432000" />
-      <workItem from="1684150640157" duration="5751000" />
+      <workItem from="1684150640157" duration="7196000" />
     </task>
     <task id="LOCAL-00001" summary="Step 0 finished">
       <created>1683099413597</created>
@@ -189,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684153466541</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Exercice 6 (Sans dico)">
+      <created>1684158467127</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684158467127</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +212,7 @@
     <MESSAGE value="ImageView" />
     <MESSAGE value="EventHandler" />
     <MESSAGE value="Exercice4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercice4" />
+    <MESSAGE value="Exercice 6 (Sans dico)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercice 6 (Sans dico)" />
   </component>
 </project>

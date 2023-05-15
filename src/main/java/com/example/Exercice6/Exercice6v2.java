@@ -37,7 +37,7 @@ public class Exercice6v2 extends Application {
         // Chargement d'un mot aléatoire à partir du fichier
         //chargerMotAleatoire();
 
-        motSecret = String.valueOf(new dico());
+        motSecret = String.valueOf(new Dico());
         // Création de l'image du pendu
         Image imagePendu = new Image(getClass().getResourceAsStream("pendu7.png"));
         imageViewPendu = new ImageView(imagePendu);

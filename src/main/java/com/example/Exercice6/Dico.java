@@ -7,13 +7,13 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Random;
 
-public class dico {
+public class Dico {
 
     private final ArrayList<String> listeMots;
 
-    public dico() {
+    public Dico() {
         listeMots = new ArrayList<>();
-        InputStream streamDico = getClass().getResourceAsStream("/exercice6/dico");
+        InputStream streamDico = getClass().getResourceAsStream("Dico2");
         String mot;
         try {
             assert streamDico != null;
