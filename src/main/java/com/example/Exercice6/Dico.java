@@ -13,7 +13,7 @@ public class Dico {
 
     public Dico() {
         listeMots = new ArrayList<>();
-        InputStream streamDico = getClass().getResourceAsStream("Dico2");
+        InputStream streamDico = getClass().getResourceAsStream("Dico");
         String mot;
         try {
             assert streamDico != null;
@@ -30,6 +30,7 @@ public class Dico {
         Random random = new Random();
         int numMotChoisi = random.nextInt(listeMots.size());
         return listeMots.get(numMotChoisi);
+
     }
 
     public ArrayList<Integer> getPositions(char lettre, String mot) {

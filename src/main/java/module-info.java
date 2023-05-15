@@ -13,4 +13,5 @@ module com.example.project_jfx {
     exports com.example.Exercice2;
     exports com.example.Exercice4;
     exports com.example.Exercice6;
+    exports com.example.Exercice5;
 }

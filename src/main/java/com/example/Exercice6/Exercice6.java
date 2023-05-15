@@ -16,6 +16,8 @@ public class Exercice6 extends Application {
     Dico mot= new Dico();
 
     private String motSecret = mot.getMot();
+
+
     private int viesRestantes = 7;
     private StringBuilder motActuel;
 
@@ -29,6 +31,7 @@ public class Exercice6 extends Application {
         BorderPane root = new BorderPane();
         root.setPadding(new Insets(10));
 
+        System.out.println(motSecret);
         // Création de l'image du pendu
         Image imagePendu = new Image(getClass().getResourceAsStream("pendu7.png"));
         imageViewPendu = new ImageView(imagePendu);
@@ -43,7 +46,7 @@ public class Exercice6 extends Application {
         textFieldLettre = new TextField();
         textFieldLettre.setPrefWidth(200);
         textFieldLettre.setOnAction(event -> {
-            String lettre = textFieldLettre.getText().toUpperCase();
+            String lettre = textFieldLettre.getText().toLowerCase();
             textFieldLettre.clear();
             verifierLettre(lettre);
         });

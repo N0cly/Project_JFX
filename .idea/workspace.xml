@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2e7a804-0174-4474-b4dc-6bd891efcf65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/Exercice6/Dico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/Exercice6/Dico2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Exercice5/Exercice5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Exercice6/Dico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Exercice6/Dico.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Exercice6/Exercice6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Exercice6/Exercice6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Exercice6/Exercice6v2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Exercice6/Exercice6v2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Exercice6/dico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Exercice6/Dico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/Exercice6/dico" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Exercice6/Dico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/Exercice6/Dico2" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/Exercice6/Dico2" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +66,19 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.Exercice6">
+    <configuration name="Exercice5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Exercice5.Exercice5" />
+      <module name="Project_JFX" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Exercice5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exercice6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Exercice6.Exercice6" />
       <module name="Project_JFX" />
@@ -107,19 +118,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.Partie2.HelloWindow" />
-      <module name="Project_JFX" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.Partie2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WindowColor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Exercice4.WindowColor" />
       <module name="Project_JFX" />
@@ -136,10 +134,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Exercice6" />
+        <item itemvalue="Application.Exercice5" />
         <item itemvalue="Application.Exercice6v2" />
         <item itemvalue="Application.Exercice62" />
         <item itemvalue="Application.WindowColor" />
-        <item itemvalue="Application.HelloWindow" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +151,7 @@
       <updated>1683096768498</updated>
       <workItem from="1683096769683" duration="11118000" />
       <workItem from="1683700293890" duration="12432000" />
-      <workItem from="1684150640157" duration="7196000" />
+      <workItem from="1684150640157" duration="9941000" />
     </task>
     <task id="LOCAL-00001" summary="Step 0 finished">
       <created>1683099413597</created>
@@ -190,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684158467127</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Exercice 6 (dico import mais pas fonctionnel)">
+      <created>1684159851588</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684159851588</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +218,7 @@
     <MESSAGE value="EventHandler" />
     <MESSAGE value="Exercice4" />
     <MESSAGE value="Exercice 6 (Sans dico)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercice 6 (Sans dico)" />
+    <MESSAGE value="Exercice 6 (dico import mais pas fonctionnel)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercice 6 (dico import mais pas fonctionnel)" />
   </component>
 </project>
