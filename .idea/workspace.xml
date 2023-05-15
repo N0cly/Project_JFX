@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2e7a804-0174-4474-b4dc-6bd891efcf65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Exercice4/WindowColor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Exercice4/WindowColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Exercice4/WindowColor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,19 +35,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/amuhome/b22002844/IdeaProjects/Project_JFX/src/main/resources/com/example/Partie2",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/amuhome/b22002844/IdeaProjects/Project_JFX/src/main/resources/com/example/Partie2&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources/com/example/Partie2" />
@@ -130,8 +129,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.WindowColor" />
-        <item itemvalue="Application.ManipConteneurs" />
         <item itemvalue="Application.HelloWindow" />
+        <item itemvalue="Application.ManipConteneurs" />
         <item itemvalue="JUnit.com.example.project_jfx in Project_JFX" />
         <item itemvalue="Application.TicTacToe" />
       </list>
@@ -147,6 +146,7 @@
       <updated>1683096768498</updated>
       <workItem from="1683096769683" duration="11118000" />
       <workItem from="1683700293890" duration="12432000" />
+      <workItem from="1684150640157" duration="1998000" />
     </task>
     <task id="LOCAL-00001" summary="Step 0 finished">
       <created>1683099413597</created>

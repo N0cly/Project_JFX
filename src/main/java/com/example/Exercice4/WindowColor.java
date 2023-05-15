@@ -86,9 +86,6 @@ public class WindowColor extends Application {
 
         private String color;
 
-        private static int countG = 1;
-        private static int countR = 1;
-        private static int countB = 1;
 
         private int count = 0;
         public ButtonClickHandler(Button btn,Label label, Pane pane) {
@@ -96,24 +93,24 @@ public class WindowColor extends Application {
             this.topLabel = label;
             this.paneCenter = pane;
 
+
             if(textColor == "Vert"){
                 this.color = "green";
-                this.count = countG++;
+
+
             }
             if(textColor == "Rouge"){
                 this.color = "red";
-                this.count = countR++;
             }
             if(textColor == "Bleu"){
                 this.color = "blue";
-                this.count = countB++;
             }
         }
 
         @Override
         public void handle(Event event) {
             // Utiliser le Label récupéré
-            topLabel.setText( textColor+" cliqué "+ count+" fois");
+            topLabel.setText( textColor+" cliqué "+ ++count+" fois");
             paneCenter.setStyle("-fx-background-color: "+color+";");
         }
     }
